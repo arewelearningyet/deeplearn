@@ -1,0 +1,71 @@
+MAJOR NEURAL NETWORK ARCHITECTURES
+__________________________________
+
+RECURRENT NEURAL NETWORKS AND LONG/SHORT-TERM MEMORY
+
+RNN and LSTM
+
+	introduce a DIRECTED cycle; 
+		INPUT of arbitrary length
+		CYCLIC structure > MEMORY
+			appropriate for @@@@@@ !SERIES!!DATA! @@@@@@
+				time series > language, climate, finance, etc
+
+@@@@@@ OBJECTIVES
+	TRAIN basic LSTM with TensorFlow
+	USE LSTM to generate text
+
+
+
+
+CONVOLUTIONAL NEURAL NETWORKS
+_____________________________
+	connectivity pattern resembling VISUAL/RECEPTIVE fields of brain
+	neurons >< receptive to input parts 
+		dependent on TRANSFORMATION/CONVOLUTION applied
+	IMAGE RECOGNITION/CLASSIFICATION
+		require little preprocessing
+		results competitive/better than human
+	content-based recommender, video recog, NLP tagging/predictions
+
+@@@@@@ OBJECTIVES
+	UNDERSTAND AND RUN basic CNN with Keras
+	USE TRANSFER LEARNING to run 'cuted' CNN for high accuracy image detection
+
+
+
+
+AUTO-ENCODERS, RECOMMENDATION SYSTEMS
+_____________________________________
+	-NO CONTENT AVAILABLE-
+	MAYBE CONSIDER 
+		notifying those whom it may concern to add whatever is relevant here
+
+@@@@@@ OBJECTIVES
+	ONE CAN ONLY GUESS; perhaps we shall see.
+
+
+
+
+ARTIFICIAL GENERAL INTELLIGENCE AND THE FUTURE
+______________________________________________
+	SOME LOFTY RANDOM BULLSHIT SPECULATIVE TROLLING
+	
+@@@@@@ OBJECTIVES
+	UNDERSTAND AND USE AutoML system to train/tune pred model
+	SEEPARATE AI HYPE FROM REALITY; offer informed opinion on direction of DS
+
+
+
+######################################
+## BUILD ###### Advanced Prediction ##
+######################################
+
+APPLY clustering tech to 1+ vars; discuss results
+
+FIT tree-based model to reproduce earlier regression models; compare
+
+FIT simple NN; compare to other models
+	GENERATE >=1 viz for each model-type fit
+
+ANSWER which most effective; why?
