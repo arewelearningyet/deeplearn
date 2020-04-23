@@ -69,3 +69,9 @@ FIT simple NN; compare to other models
 	GENERATE >=1 viz for each model-type fit
 
 ANSWER which most effective; why?
+
+won't be training your own CNNs in work; likely only transfer learning
+input_shape > more complex than input_dim
+
+
+
