@@ -49,7 +49,7 @@ _____________________________________
 
 ARTIFICIAL GENERAL INTELLIGENCE AND THE FUTURE
 ______________________________________________
-	SOME LOFTY RANDOM BULLSHIT SPECULATIVE TROLLING
+	SOME LOFTY SPECULATION
 	
 @@@@@@ OBJECTIVES
 	UNDERSTAND AND USE AutoML system to train/tune pred model
@@ -74,4 +74,3 @@ won't be training your own CNNs in work; likely only transfer learning
 input_shape > more complex than input_dim
 
 
-new thing i wnate to note 
